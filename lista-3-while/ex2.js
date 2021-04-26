@@ -3,7 +3,7 @@ var fim = 50
 
 while (inicio <= 50) {
 
-    //descobre se e primo
+    // //descobre se e primo
     var i = 2
     var contador = 0
     while ( i <= inicio ) {
