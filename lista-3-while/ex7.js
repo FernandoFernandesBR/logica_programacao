@@ -20,7 +20,7 @@ while (true) {
 
         if ( saldo >= saque ) {
             saldo -= saque
-            console.log ( "O saldo atualizado eh R$ "  + saldo.toFixed(2) ) 
+            console.log ( "O saldo atualizado eh R$ " + saldo.toFixed(2) ) 
             rl.question("Pressione enter para prosseguir..." )
 
         } else {
