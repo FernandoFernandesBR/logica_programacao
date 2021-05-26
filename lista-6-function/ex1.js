@@ -12,6 +12,8 @@ var entrada = rl.question( "Digite um parametro: " )
 
 calculaVolume(entrada)
 
+calculaVolume(10)
+
 
 
 
